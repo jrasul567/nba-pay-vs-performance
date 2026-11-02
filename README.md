@@ -5,7 +5,6 @@ Python analysis of how NBA player salaries relate to performance, draft position
 ## Files
 - **Part 1:** Data cleaning and analysis of the research questions
 - **Part 2:** Interactive menu for exploring the cleaned data
-- **Part 3:** Audit of AI generated code for two research questions
 - **cleaned_data.csv:** Cleaned dataset used in Part 2
 
 ## Data
