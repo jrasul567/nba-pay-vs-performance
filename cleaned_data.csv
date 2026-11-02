@@ -1,0 +1,541 @@
+player,year,position,games,minutes,points,rebounds,assists,salary,times_injured,draft_year,draft_round,draft_number,salary_tier
+Stephen Curry,2022,Point Guard,64,34.5,25.5,5.2,6.3,52938707,7,2009,1,7,$30M+
+James Harden,2022,Point Guard-Shooting Guard,65,37.2,22.0,7.7,10.3,51238730,5,2009,1,3,$30M+
+Russell Westbrook,2022,Point Guard,78,34.3,18.5,7.4,7.1,51123449,1,2008,1,4,$30M+
+Kevin Durant,2022,Power Forward,55,37.2,29.9,7.4,6.4,48588451,3,2007,1,2,$30M+
+LeBron James,2022,Small Forward,56,37.2,30.3,8.2,6.2,47619020,5,2003,1,1,$30M+
+Paul George,2022,Small Forward,31,34.7,24.3,6.9,5.7,45496459,3,2010,1,10,$30M+
+Giannis Antetokounmpo,2022,Power Forward,67,32.9,29.9,11.6,5.8,45496378,9,2013,1,15,$30M+
+Damian Lillard,2022,Point Guard,29,36.4,24.0,4.1,7.3,45496378,3,2012,1,6,$30M+
+Klay Thompson,2022,Shooting Guard,32,29.4,20.4,3.9,2.8,43918911,8,2011,1,11,$30M+
+Jimmy Butler,2022,Small Forward,57,33.9,21.4,5.9,5.5,41647244,11,2011,1,30,$30M+
+Tobias Harris,2022,Power Forward,73,34.8,17.2,6.8,3.5,41623828,1,2011,1,19,$30M+
+Khris Middleton,2022,Small Forward,66,32.4,20.1,5.4,5.4,41050337,3,2012,2,39,$30M+
+Anthony Davis,2022,Center,40,35.1,23.2,9.9,3.1,40890021,4,2012,1,1,$30M+
+Rudy Gobert,2022,Center,66,32.1,15.6,14.7,1.1,40870904,2,2013,1,27,$30M+
+Kyrie Irving,2022,Point Guard,29,37.6,27.4,4.4,5.8,40852255,6,2011,1,1,$30M+
+Kemba Walker,2022,Point Guard,37,25.6,11.6,3.0,3.5,40434514,3,2011,1,9,$30M+
+Bradley Beal,2022,Shooting Guard,40,36.0,23.2,4.7,6.6,38996895,1,2012,1,3,$30M+
+Pascal Siakam,2022,Power Forward,68,37.9,22.8,8.5,5.3,38164020,2,2016,1,27,$30M+
+Blake Griffin,2022,Power Forward,56,17.1,6.4,4.1,1.9,37472385,0,2009,1,1,$30M+
+Karl-Anthony Towns,2022,Center,74,33.5,24.6,9.8,3.6,36599093,0,2015,1,1,$30M+
+Devin Booker,2022,Shooting Guard,68,34.5,26.8,5.0,4.8,36599093,0,2015,1,13,$30M+
+Kristaps Porzingis,2022,Power Forward,51,29.0,20.2,8.1,2.3,36599093,6,2015,1,4,$30M+
+Andrew Wiggins,2022,Small Forward,73,31.9,17.2,4.5,2.2,36516749,4,2014,1,1,$30M+
+Joel Embiid,2022,Center,68,33.8,30.6,11.7,4.2,36516749,2,2014,1,3,$30M+
+Kevin Love,2022,Power Forward,74,22.5,13.6,7.2,2.2,36145407,0,2008,1,5,$30M+
+Jrue Holiday,2022,Point Guard,67,32.9,18.3,4.5,6.8,36044894,3,2009,1,17,$30M+
+Nikola Jokic,2022,Center,74,33.5,27.1,13.8,7.9,35898700,4,2014,2,41,$30M+
+CJ McCollum,2022,Shooting Guard,62,34.6,22.1,4.3,5.1,35689739,1,2013,1,10,$30M+
+Chris Paul,2022,Point Guard,65,32.9,14.7,4.4,10.8,35615504,1,2005,1,4,$30M+
+D'Angelo Russell,2022,Point Guard,65,32.0,18.1,3.3,7.1,34706036,5,2015,1,2,$30M+
+Gordon Hayward,2022,Small Forward,49,31.9,15.9,4.6,3.6,34603699,2,2010,1,9,$30M+
+Brandon Ingram,2022,Small Forward,55,34.0,22.7,5.8,5.6,34075017,5,2016,1,2,$30M+
+Jayson Tatum,2022,Small Forward,76,35.9,26.9,8.0,4.4,32497412,2,2017,1,3,$30M+
+Bam Adebayo,2022,Center,56,32.6,19.1,10.1,3.4,32497412,3,2017,1,14,$30M+
+De'Aaron Fox,2022,Point Guard,59,35.3,23.2,3.9,5.6,32497412,2,2017,1,5,$30M+
+Donovan Mitchell,2022,Shooting Guard,67,33.8,25.9,4.2,5.3,32497412,5,2017,1,13,$30M+
+Al Horford,2022,Center,69,29.1,10.2,7.7,3.4,31221383,4,2007,1,3,$30M+
+Kyle Lowry,2022,Point Guard,63,33.9,13.4,4.5,7.5,31203029,1,2006,1,24,$30M+
+Jaylen Brown,2022,Small Forward,66,33.6,23.6,6.1,3.5,30942620,5,2016,1,3,$30M+
+DeMar DeRozan,2022,Power Forward,76,36.1,27.9,5.2,4.9,30065035,1,2009,1,9,$30M+
+Draymond Green,2022,Power Forward,46,28.9,7.5,7.3,7.0,27783229,6,2012,2,35,$15M to $30M
+Nikola Vucevic,2022,Center,73,33.1,17.6,11.0,3.2,27752340,1,2011,1,16,$15M to $30M
+Buddy Hield,2022,Shooting Guard,81,30.9,15.6,4.4,2.8,26680677,0,2016,1,6,$15M to $30M
+John Collins,2022,Power Forward,54,30.8,16.2,7.8,1.8,26595993,2,2017,1,19,$15M to $30M
+Malcolm Brogdon,2022,Point Guard,36,33.5,19.1,5.1,5.9,25092741,8,2016,2,36,$15M to $30M
+Mike Conley,2022,Point Guard,72,28.6,13.7,3.0,5.3,24283298,7,2007,1,4,$15M to $30M
+Gary Harris,2022,Shooting Guard,61,28.4,11.1,2.0,1.8,24204831,1,2014,1,19,$15M to $30M
+Danilo Gallinari,2022,Power Forward,66,25.3,11.7,4.7,1.5,23676215,5,2008,1,6,$15M to $30M
+Harrison Barnes,2022,Power Forward,77,33.6,16.4,5.6,2.4,23455458,1,2012,1,7,$15M to $30M
+Jerami Grant,2022,Power Forward,47,31.9,19.2,4.1,2.4,23129841,4,2014,2,39,$15M to $30M
+Jarrett Allen,2022,Center,56,32.3,16.1,10.8,1.6,23126950,3,2017,1,22,$15M to $30M
+Julius Randle,2022,Power Forward,72,35.3,20.1,9.9,5.1,22895681,2,2014,1,7,$15M to $30M
+Fred VanVleet,2022,Point Guard,65,37.9,20.3,4.4,6.7,22752208,8,Undrafted,Undrafted,Undrafted,$15M to $30M
+Zach LaVine,2022,Small Forward,67,34.7,24.4,4.6,4.5,22548776,6,2014,1,13,$15M to $30M
+Goran Dragic,2022,Point Guard,21,23.7,7.5,3.1,4.1,22374060,1,2008,2,45,$15M to $30M
+Spencer Dinwiddie,2022,Point Guard,67,29.6,13.7,4.2,5.2,22334024,7,2014,2,38,$15M to $30M
+Bojan Bogdanovic,2022,Power Forward,69,30.9,18.1,4.3,1.7,21623698,5,2011,2,31,$15M to $30M
+Domantas Sabonis,2022,Center-Power Forward,62,34.5,18.9,12.1,5.2,21392429,3,2016,1,11,$15M to $30M
+Eric Gordon,2022,Shooting Guard,57,29.3,13.4,2.0,2.7,21067285,12,2008,1,7,$15M to $30M
+Eric Bledsoe,2022,Point Guard,54,25.2,9.9,3.4,4.2,20958799,1,2010,1,18,$15M to $30M
+Bogdan Bogdanovic,2022,Shooting Guard,63,29.3,15.1,4.0,3.1,20814255,2,2014,1,27,$15M to $30M
+Myles Turner,2022,Center,42,29.4,12.9,7.1,1.0,20814255,2,2015,1,11,$15M to $30M
+Terry Rozier,2022,Shooting Guard,73,33.7,19.3,4.3,4.5,20704706,2,2015,1,16,$15M to $30M
+Ricky Rubio,2022,Point Guard,34,28.5,13.1,4.1,6.6,20582986,1,2009,1,5,$15M to $30M
+Clint Capela,2022,Center,74,27.6,11.1,11.9,1.2,20355703,1,2014,1,25,$15M to $30M
+Caris LeVert,2022,Shooting Guard,58,30.7,17.0,3.7,4.3,20236081,4,2016,1,20,$15M to $30M
+Joe Harris,2022,Small Forward,14,30.2,11.3,4.0,1.0,20070889,1,2014,2,33,$15M to $30M
+Evan Fournier,2022,Shooting Guard,80,29.5,14.1,2.6,2.1,19823100,1,2012,1,20,$15M to $30M
+Steven Adams,2022,Center,76,26.3,6.9,10.0,3.4,19742519,2,2013,1,12,$15M to $30M
+Markelle Fultz,2022,Point Guard,18,20.0,10.8,2.7,5.5,19079734,4,2017,1,1,$15M to $30M
+Aaron Gordon,2022,Power Forward,75,31.7,15.0,5.9,2.5,18974611,5,2014,1,4,$15M to $30M
+OG Anunoby,2022,Small Forward,48,36.0,17.1,5.5,2.6,18584157,3,2017,1,23,$15M to $30M
+Davis Bertans,2022,Power Forward,56,14.4,5.6,2.1,0.6,18501560,5,2011,2,42,$15M to $30M
+Lauri Markkanen,2022,Power Forward,61,30.8,14.8,5.7,1.3,18144143,2,2017,1,7,$15M to $30M
+Derrick White,2022,Shooting Guard,75,29.3,13.2,3.5,4.9,18129876,0,2017,1,29,$15M to $30M
+Duncan Robinson,2022,Shooting Guard,79,25.9,10.9,2.6,1.6,18096838,0,Undrafted,Undrafted,Undrafted,$15M to $30M
+Marcus Morris,2022,Power Forward,54,29.0,15.4,4.4,2.1,18071291,5,2011,1,14,$15M to $30M
+Will Barton,2022,Shooting Guard,71,32.1,14.7,4.8,3.9,18067930,6,2012,2,40,$15M to $30M
+Norman Powell,2022,Shooting Guard-Small Forward,45,32.4,19.0,3.2,2.1,17943324,3,2015,2,46,$15M to $30M
+Dejounte Murray,2022,Point Guard,68,34.8,21.1,8.3,9.2,17841147,5,2016,1,29,$15M to $30M
+Malik Beasley,2022,Shooting Guard,79,25.0,12.1,2.9,1.5,16757746,1,2016,1,19,$15M to $30M
+Patrick Beverley,2022,Point Guard,58,25.4,9.2,4.1,4.6,16560038,8,2009,2,42,$15M to $30M
+Thaddeus Young,2022,Power Forward,52,16.3,6.2,4.0,2.0,16408571,1,2007,1,12,$15M to $30M
+Jonas Valanciunas,2022,Center,74,30.3,17.8,11.4,2.6,16188865,5,2011,1,5,$15M to $30M
+Marcus Smart,2022,Point Guard,71,32.3,12.1,3.8,5.9,16003023,4,2014,1,6,$15M to $30M
+Doug McDermott,2022,Power Forward,51,24.0,11.3,2.3,1.3,15899778,6,2014,1,11,$15M to $30M
+Christian Wood,2022,Center,68,30.8,17.9,10.1,2.3,15803416,4,Undrafted,Undrafted,Undrafted,$15M to $30M
+Derrick Rose,2022,Point Guard,26,24.5,12.0,3.0,4.0,15547231,2,2008,1,1,$15M to $30M
+Luke Kennard,2022,Shooting Guard,70,27.4,11.9,3.3,2.1,15434611,3,2017,1,12,$15M to $30M
+Taurean Prince,2022,Power Forward,69,17.1,7.3,2.5,1.0,15419171,0,2016,1,12,$15M to $30M
+Brook Lopez,2022,Center,13,22.9,12.4,4.1,0.5,15382110,3,2008,1,10,$15M to $30M
+Kentavious Caldwell-Pope,2022,Shooting Guard,77,30.2,13.2,3.4,1.9,15077455,0,2013,1,8,$15M to $30M
+Joe Ingles,2022,Small Forward,45,24.9,7.2,2.9,3.5,15074567,2,Undrafted,Undrafted,Undrafted,$15M to $30M
+Kyle Kuzma,2022,Power Forward,66,33.4,17.1,8.5,3.5,15032517,2,2017,1,27,$15M to $30M
+Robert Covington,2022,Power Forward-Small Forward,71,27.3,8.5,5.5,1.3,15004153,1,Undrafted,Undrafted,Undrafted,$15M to $30M
+Terrence Ross,2022,Shooting Guard,63,23.0,10.0,2.6,1.8,14454344,0,2012,1,8,$5M to $15M
+Jordan Clarkson,2022,Shooting Guard,79,27.1,16.0,3.5,2.5,14361836,1,2014,2,46,$5M to $15M
+Dillon Brooks,2022,Small Forward,32,27.7,18.4,3.2,2.8,14107439,7,2017,2,45,$5M to $15M
+Kelly Olynyk,2022,Center,40,19.1,9.1,4.4,2.8,14101799,1,2013,1,13,$5M to $15M
+Nicolas Batum,2022,Power Forward,59,24.8,8.3,4.3,1.7,13907389,3,2008,1,25,$5M to $15M
+Jusuf Nurkic,2022,Center,56,28.2,15.0,11.1,2.8,13876170,1,2014,1,16,$5M to $15M
+Josh Hart,2022,Shooting Guard-Small Forward,54,33.2,14.9,7.2,4.1,13876170,6,2017,1,30,$5M to $15M
+Josh Richardson,2022,Shooting Guard,65,24.6,10.2,2.8,1.8,13431355,6,2015,2,40,$5M to $15M
+DeAndre Jordan,2022,Center,48,13.0,4.3,5.5,0.4,12846241,0,2008,2,35,$5M to $15M
+Dwight Powell,2022,Center,82,21.9,8.7,4.9,1.2,12812475,0,2014,2,45,$5M to $15M
+Jeremy Lamb,2022,Shooting Guard-Small Forward,56,16.7,7.3,2.8,1.4,12141649,4,2012,1,12,$5M to $15M
+Reggie Jackson,2022,Shooting Guard,75,31.2,16.8,3.6,4.8,12008090,0,2011,1,24,$5M to $15M
+Richaun Holmes,2022,Center,45,23.9,10.4,7.0,1.1,12008090,3,2015,2,37,$5M to $15M
+Anthony Edwards,2022,Shooting Guard,72,34.3,21.3,4.8,3.8,11847335,1,2020,1,1,$5M to $15M
+Luka Doncic,2022,Point Guard,65,35.4,28.4,9.1,8.7,11765131,6,2018,1,3,$5M to $15M
+Cade Cunningham,2022,Point Guard,64,32.6,17.4,5.5,5.6,11621431,3,2021,1,1,$5M to $15M
+Danny Green,2022,Small Forward,62,21.8,5.9,2.5,1.0,11563475,4,2009,2,46,$5M to $15M
+Tomas Satoransky,2022,Shooting Guard,55,16.5,3.6,2.3,3.3,11563475,0,2012,2,32,$5M to $15M
+Tristan Thompson,2022,Power Forward,57,15.7,6.0,5.1,0.6,11501738,1,2011,1,4,$5M to $15M
+Kyle Anderson,2022,Power Forward,69,21.5,7.6,5.3,2.7,11490798,1,2014,1,30,$5M to $15M
+Montrezl Harrell,2022,Center,71,23.1,13.1,6.1,2.0,11240738,0,2015,2,32,$5M to $15M
+Serge Ibaka,2022,Center-Power Forward,54,16.2,6.8,4.6,0.9,11240738,2,2008,1,24,$5M to $15M
+Derrick Favors,2022,Center,39,16.7,5.3,4.7,0.6,11240738,7,2010,1,3,$5M to $15M
+Jae Crowder,2022,Power Forward,67,28.1,9.4,5.3,1.9,11240738,0,2012,2,34,$5M to $15M
+Ja Morant,2022,Point Guard,57,33.1,27.4,5.7,6.7,11104821,6,2019,1,2,$5M to $15M
+Reggie Bullock,2022,Small Forward,68,28.0,8.6,3.5,1.2,11026930,3,2013,1,25,$5M to $15M
+Alec Burks,2022,Shooting Guard,81,28.6,11.7,4.9,3.0,11026930,0,2011,1,12,$5M to $15M
+Talen Horton-Tucker,2022,Shooting Guard,60,25.2,10.0,3.2,2.7,10985301,1,2019,2,46,$5M to $15M
+Mason Plumlee,2022,Center,73,24.6,6.5,7.7,3.1,10694287,1,2013,1,22,$5M to $15M
+Jalen Green,2022,Shooting Guard,67,31.9,17.3,3.4,2.6,10397969,1,2021,1,2,$5M to $15M
+De'Anthony Melton,2022,Shooting Guard,73,22.7,10.8,4.5,2.7,10182768,1,2018,2,46,$5M to $15M
+Nerlens Noel,2022,Center,25,22.5,3.4,5.6,0.9,10175858,8,2013,1,6,$5M to $15M
+Royce O'Neale,2022,Small Forward,77,31.2,7.4,4.8,2.5,10175858,2,Undrafted,Undrafted,Undrafted,$5M to $15M
+Maxi Kleber,2022,Power Forward,59,24.6,7.0,5.9,1.2,10118040,3,Undrafted,Undrafted,Undrafted,$5M to $15M
+Jakob Poeltl,2022,Center,68,29.0,13.5,9.3,2.8,10118040,8,2016,1,9,$5M to $15M
+Thomas Bryant,2022,Center,27,16.3,7.4,4.0,0.9,10021679,3,2017,2,42,$5M to $15M
+RJ Barrett,2022,Small Forward,70,34.5,20.0,5.8,3.0,9972248,2,2019,1,3,$5M to $15M
+Alex Caruso,2022,Shooting Guard,41,28.0,7.4,3.6,4.0,9944588,5,Undrafted,Undrafted,Undrafted,$5M to $15M
+Delon Wright,2022,Shooting Guard,77,18.9,4.4,2.9,2.4,9859384,0,2015,1,20,$5M to $15M
+Monte Morris,2022,Point Guard,75,29.9,12.6,3.0,4.4,9770065,3,2017,2,51,$5M to $15M
+Tyus Jones,2022,Point Guard,73,21.2,8.7,2.4,4.4,9685897,2,2015,1,24,$5M to $15M
+Trae Young,2022,Point Guard,76,34.9,28.4,3.7,9.7,9628294,3,2018,1,5,$5M to $15M
+Daniel Theis,2022,Center,47,20.8,8.2,4.9,0.9,9574963,0,Undrafted,Undrafted,Undrafted,$5M to $15M
+LaMelo Ball,2022,Point Guard,75,32.3,20.1,6.7,7.6,9518775,0,2020,1,3,$5M to $15M
+Seth Curry,2022,Shooting Guard,64,33.4,15.0,3.1,3.6,9490743,2,Undrafted,Undrafted,Undrafted,$5M to $15M
+JaMychal Green,2022,Power Forward,67,16.2,6.4,4.2,0.9,9482049,3,Undrafted,Undrafted,Undrafted,$5M to $15M
+Cedi Osman,2022,Small Forward,66,22.2,10.7,2.2,2.0,9404960,2,2015,2,31,$5M to $15M
+Evan Mobley,2022,Power Forward,69,33.8,15.0,8.3,2.5,9337691,2,2021,1,3,$5M to $15M
+De'Andre Hunter,2022,Small Forward,53,29.8,13.4,3.3,1.3,8991064,2,2019,1,4,$5M to $15M
+Mo Bamba,2022,Center,71,25.7,10.6,8.1,1.2,8752097,1,2018,1,6,$5M to $15M
+Ivica Zubac,2022,Center,76,24.4,10.3,8.5,1.6,8694019,1,2016,2,32,$5M to $15M
+Rajon Rondo,2022,Point Guard,39,17.9,4.8,2.8,4.4,8672605,4,2006,1,21,$5M to $15M
+Patrick Williams,2022,Power Forward,17,24.8,9.0,4.1,0.9,8582411,1,2020,1,4,$5M to $15M
+Cory Joseph,2022,Point Guard,65,24.6,8.0,2.7,3.6,8452900,1,2011,1,29,$5M to $15M
+Scottie Barnes,2022,Power Forward,74,35.4,15.3,7.5,3.5,8418672,3,2021,1,4,$5M to $15M
+Darius Garland,2022,Point Guard,68,35.7,21.7,3.3,8.6,8141704,4,2019,1,5,$5M to $15M
+Chris Boucher,2022,Power Forward,80,21.1,9.4,6.2,0.3,8117559,1,Undrafted,Undrafted,Undrafted,$5M to $15M
+Zach Collins,2022,Power Forward,28,17.9,7.8,5.5,2.2,8094432,2,2017,1,10,$5M to $15M
+Isaac Okoro,2022,Small Forward,67,29.6,8.8,3.0,1.8,7771488,2,2020,1,5,$5M to $15M
+Jalen Suggs,2022,Point Guard,48,27.2,11.8,3.6,4.4,7623706,5,2021,1,5,$5M to $15M
+Cameron Payne,2022,Point Guard,58,22.0,10.8,3.0,4.9,7516258,1,2015,1,14,$5M to $15M
+Jarrett Culver,2022,Shooting Guard,37,9.1,3.5,1.3,0.9,7395027,1,2019,1,6,$5M to $15M
+Khem Birch,2022,Center,55,18.0,4.5,4.3,1.0,7342806,4,Undrafted,Undrafted,Undrafted,$5M to $15M
+Collin Sexton,2022,Shooting Guard,11,28.7,16.0,3.3,2.1,7342426,1,2018,1,8,$5M to $15M
+Onyeka Okongwu,2022,Center,48,20.7,8.2,5.9,1.1,7058669,2,2020,1,6,$5M to $15M
+Justin Holiday,2022,Shooting Guard-Small Forward,74,27.8,10.1,2.6,1.7,6945508,1,Undrafted,Undrafted,Undrafted,$5M to $15M
+Josh Giddey,2022,Shooting Guard,54,31.5,12.5,7.8,6.4,6924209,2,2021,1,6,$5M to $15M
+Rudy Gay,2022,Power Forward,55,18.9,8.1,4.4,1.0,6810886,4,2006,1,8,$5M to $15M
+Kevin Knox,2022,Small Forward,30,7.4,3.1,1.5,0.3,6759982,0,2018,1,9,$5M to $15M
+Coby White,2022,Point Guard,61,27.5,12.7,3.0,2.9,6750479,1,2019,1,7,$5M to $15M
+Killian Hayes,2022,Point Guard,66,25.0,6.9,3.2,4.2,6443954,6,2020,1,7,$5M to $15M
+Mikal Bridges,2022,Small Forward,82,34.8,14.2,4.2,2.3,6426661,0,2018,1,10,$5M to $15M
+Shai Gilgeous-Alexander,2022,Point Guard,56,34.7,24.5,5.0,5.9,6354744,6,2018,1,11,$5M to $15M
+Jonathan Kuminga,2022,Small Forward,70,16.9,9.3,3.3,0.9,6321011,1,2021,1,7,$5M to $15M
+Miles Bridges,2022,Power Forward,80,35.5,20.2,7.0,3.8,6269130,0,2018,1,12,$5M to $15M
+Jaxson Hayes,2022,Center,70,20.0,9.3,4.5,0.6,6184470,0,2019,1,8,$5M to $15M
+Pat Connaughton,2022,Shooting Guard,65,26.0,9.9,4.2,1.3,6167187,1,2015,2,41,$5M to $15M
+Kris Dunn,2022,Point Guard,14,24.0,7.6,3.5,5.6,6148796,1,2016,1,5,$5M to $15M
+George Hill,2022,Shooting Guard,54,23.2,6.2,2.9,2.2,6100300,4,2008,1,26,$5M to $15M
+Dewayne Dedmon,2022,Center,67,15.9,6.3,5.8,0.7,6078118,4,Undrafted,Undrafted,Undrafted,$5M to $15M
+Hamidou Diallo,2022,Shooting Guard,58,21.9,11.0,4.8,1.3,6013007,2,2018,2,45,$5M to $15M
+Kevon Looney,2022,Center,82,21.1,6.0,7.3,2.0,5988228,0,2015,1,30,$5M to $15M
+Obi Toppin,2022,Power Forward,72,17.1,9.0,3.7,1.1,5903339,1,2020,1,8,$5M to $15M
+Franz Wagner,2022,Small Forward,79,30.7,15.2,4.5,2.9,5790803,2,2021,1,8,$5M to $15M
+Josh Jackson,2022,Small Forward,51,16.3,6.4,2.8,1.1,5787924,2,2017,1,4,$5M to $15M
+Robin Lopez,2022,Center,36,17.0,7.1,3.5,1.5,5781737,0,2008,1,15,$5M to $15M
+JaVale McGee,2022,Center,74,15.8,9.2,6.7,0.6,5781737,2,2008,1,18,$5M to $15M
+Rui Hachimura,2022,Power Forward,42,22.5,11.3,3.8,1.1,5684789,1,2019,1,9,$5M to $15M
+Garrett Temple,2022,Shooting Guard,59,18.6,5.2,2.4,1.3,5677666,0,Undrafted,Undrafted,Undrafted,$5M to $15M
+Taj Gibson,2022,Center,52,18.2,4.4,4.4,0.6,5677666,1,2009,1,26,$5M to $15M
+Torrey Craig,2022,Small Forward,78,20.5,6.6,4.0,1.2,5640719,1,Undrafted,Undrafted,Undrafted,$5M to $15M
+Bruce Brown,2022,Small Forward,72,24.6,9.0,4.8,2.1,5476579,2,2018,2,42,$5M to $15M
+Donte DiVincenzo,2022,Shooting Guard,42,24.0,9.0,4.0,2.8,5406884,1,2018,1,17,$5M to $15M
+Cam Reddish,2022,Small Forward,49,20.7,10.1,2.1,1.0,5400328,4,2019,1,10,$5M to $15M
+David Nwaba,2022,Small Forward,46,13.2,5.1,3.3,0.8,5377016,0,Undrafted,Undrafted,Undrafted,$5M to $15M
+Furkan Korkmaz,2022,Shooting Guard,67,21.1,7.6,2.6,1.9,5353461,2,2016,1,26,$5M to $15M
+Davion Mitchell,2022,Point Guard,75,27.7,11.5,2.2,4.2,5322898,1,2021,1,9,$5M to $15M
+Bryn Forbes,2022,Shooting Guard,75,17.1,8.8,1.2,1.0,5203563,0,Undrafted,Undrafted,Undrafted,$5M to $15M
+Jeff Green,2022,Center,75,24.7,10.3,3.1,1.3,5203563,1,2007,1,5,$5M to $15M
+Jalen Smith,2022,Power Forward,51,18.1,9.2,6.0,0.5,5154997,1,2020,1,10,$5M to $15M
+Cameron Johnson,2022,Power Forward,66,26.2,12.5,4.1,1.5,5130714,1,2019,1,11,$5M to $15M
+Ziaire Williams,2022,Small Forward,62,21.7,8.1,2.1,1.0,5056754,3,2021,1,10,$5M to $15M
+Bobby Portis,2022,Center,72,28.2,14.6,9.1,1.2,5027336,1,2015,1,22,$5M to $15M
+Kevin Huerter,2022,Shooting Guard,74,29.6,12.1,3.4,2.7,4918358,1,2018,1,19,$2.5M to $5M
+Devin Vassell,2022,Small Forward,71,27.3,12.3,4.3,1.9,4897316,4,2020,1,11,$2.5M to $5M
+Chandler Hutchison,2022,Small Forward,6,3.7,0.7,0.8,0.3,4884626,1,2018,1,22,$2.5M to $5M
+Willie Cauley-Stein,2022,Center,20,9.2,1.7,2.0,0.5,4879881,1,2015,1,6,$2.5M to $5M
+James Bouknight,2022,Shooting Guard,31,9.8,4.6,1.7,0.8,4803930,2,2021,1,11,$2.5M to $5M
+Jevon Carter,2022,Point Guard,66,13.7,4.2,1.7,1.5,4749291,0,2018,2,32,$2.5M to $5M
+Josh Okogie,2022,Shooting Guard,49,10.5,2.7,1.4,0.5,4727037,2,2018,1,20,$2.5M to $5M
+Grayson Allen,2022,Shooting Guard,66,27.3,11.1,3.4,1.5,4688636,5,2018,1,21,$2.5M to $5M
+Jarred Vanderbilt,2022,Power Forward,74,25.4,6.9,8.4,1.3,4683207,2,2018,2,41,$2.5M to $5M
+Tyrese Haliburton,2022,Point Guard-Shooting Guard,77,35.0,15.3,4.0,8.2,4652679,1,2020,1,12,$2.5M to $5M
+Tyler Herro,2022,Shooting Guard,66,32.6,20.7,5.0,4.0,4630339,6,2019,1,13,$2.5M to $5M
+Gorgui Dieng,2022,Center,44,8.4,3.5,2.8,0.8,4625390,0,2013,1,21,$2.5M to $5M
+Dorian Finney-Smith,2022,Power Forward,80,33.1,11.0,4.7,1.9,4625390,1,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Terence Davis,2022,Shooting Guard,30,17.9,10.4,3.1,1.3,4625390,3,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Aaron Holiday,2022,Point Guard,63,16.2,6.3,1.9,2.4,4602900,2,2018,1,23,$2.5M to $5M
+Jake Layman,2022,Small Forward,34,6.8,2.4,1.1,0.3,4556222,0,2016,2,47,$2.5M to $5M
+Anfernee Simons,2022,Shooting Guard,57,29.5,17.3,2.6,3.9,4554642,4,2018,1,24,$2.5M to $5M
+Justise Winslow,2022,Small Forward,48,16.1,5.7,4.2,1.8,4512575,2,2015,1,10,$2.5M to $5M
+Romeo Langford,2022,Shooting Guard,48,16.1,4.5,2.3,0.4,4399162,6,2019,1,14,$2.5M to $5M
+Sekou Doumbouya,2022,Power Forward,2,8.0,7.0,3.0,0.0,4393114,2,2019,1,15,$2.5M to $5M
+Landry Shamet,2022,Shooting Guard,69,20.8,8.3,1.8,1.6,4357512,1,2018,1,26,$2.5M to $5M
+Chris Duarte,2022,Shooting Guard,55,28.0,13.1,4.1,2.1,4335609,3,2021,1,13,$2.5M to $5M
+Alex Len,2022,Center,39,15.9,6.0,4.1,1.2,4315489,1,2013,1,5,$2.5M to $5M
+Robert Williams,2022,Center,61,29.6,10.0,9.6,2.0,4234516,7,2018,1,27,$2.5M to $5M
+Aaron Nesmith,2022,Small Forward,52,11.0,3.8,1.7,0.4,4198929,2,2020,1,14,$2.5M to $5M
+Moses Moody,2022,Shooting Guard,52,11.7,4.4,1.5,0.4,4119141,1,2021,1,14,$2.5M to $5M
+Boban Marjanovic,2022,Center,23,5.6,4.3,1.7,0.1,4047216,0,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Mike Muscala,2022,Center,43,13.8,8.0,3.0,0.5,4047216,5,2013,2,44,$2.5M to $5M
+Cole Anthony,2022,Point Guard,65,31.7,16.3,5.4,5.7,3988705,3,2020,1,15,$2.5M to $5M
+Corey Kispert,2022,Small Forward,77,23.4,8.2,2.7,1.1,3912663,0,2021,1,15,$2.5M to $5M
+Georges Niang,2022,Power Forward,76,22.8,9.2,2.7,1.3,3815946,1,2016,2,50,$2.5M to $5M
+Isaiah Stewart,2022,Center,71,25.6,8.3,8.7,1.2,3789443,1,2020,1,16,$2.5M to $5M
+Chuma Okeke,2022,Power Forward,70,25.0,8.6,5.0,1.7,3789443,1,2019,1,16,$2.5M to $5M
+Nickeil Alexander-Walker,2022,Shooting Guard,65,22.6,10.6,2.9,2.4,3771404,0,2019,1,17,$2.5M to $5M
+Alperen Sengun,2022,Center,72,20.7,9.6,5.5,2.6,3717287,3,2021,1,16,$2.5M to $5M
+Trey Burke,2022,Point Guard,42,10.5,5.1,0.8,1.4,3642494,1,2013,1,9,$2.5M to $5M
+Aleksej Pokusevski,2022,Power Forward,61,20.2,7.6,5.2,2.1,3599894,0,2020,1,17,$2.5M to $5M
+Facundo Campazzo,2022,Point Guard,65,18.2,5.1,1.8,3.4,3584677,1,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Goga Bitadze,2022,Center,50,14.6,7.0,3.5,1.1,3582827,3,2019,1,18,$2.5M to $5M
+Sterling Brown,2022,Shooting Guard,49,12.8,3.3,3.0,0.7,3469042,4,2017,2,46,$2.5M to $5M
+Frank Jackson,2022,Point Guard,53,22.0,10.6,1.6,1.0,3469042,2,2017,2,31,$2.5M to $5M
+Josh Green,2022,Shooting Guard,67,15.5,4.8,2.4,1.2,3419920,0,2020,1,18,$2.5M to $5M
+Tre Mann,2022,Point Guard,60,22.8,10.4,2.9,1.5,3354841,1,2021,1,18,$2.5M to $5M
+Matisse Thybulle,2022,Shooting Guard,66,25.5,5.7,2.3,1.1,3284212,2,2019,1,20,$2.5M to $5M
+Saddiq Bey,2022,Small Forward,82,33.0,16.1,5.4,2.8,3265895,0,2020,1,19,$2.5M to $5M
+Kai Jones,2022,Center,21,3.0,1.0,0.5,0.2,3203730,3,2021,1,19,$2.5M to $5M
+Brandon Clarke,2022,Power Forward,64,19.5,10.4,5.3,1.3,3153220,3,2019,1,21,$2.5M to $5M
+Precious Achiuwa,2022,Center,73,23.6,9.1,6.5,1.1,3135181,2,2020,1,20,$2.5M to $5M
+Jalen Johnson,2022,Power Forward,22,5.5,2.4,1.2,0.1,3075514,2,2021,1,20,$2.5M to $5M
+LaMarcus Aldridge,2022,Center,47,22.3,12.9,5.5,0.9,3054712,4,2006,1,2,$2.5M to $5M
+James Johnson,2022,Power Forward,62,19.2,5.5,3.5,2.1,3054712,2,2009,1,16,$2.5M to $5M
+Ed Davis,2022,Center,31,6.5,0.9,2.1,0.2,3054712,0,2010,1,13,$2.5M to $5M
+Andre Iguodala,2022,Small Forward,31,19.5,4.0,3.2,3.7,3054712,10,2004,1,9,$2.5M to $5M
+Avery Bradley,2022,Shooting Guard,62,22.7,6.4,2.2,0.8,3054712,1,2010,1,19,$2.5M to $5M
+Carmelo Anthony,2022,Power Forward,69,26.0,13.3,4.2,1.0,3054712,5,2003,1,3,$2.5M to $5M
+Wayne Ellington,2022,Shooting Guard,43,18.8,6.7,1.8,0.7,3054712,2,2009,1,28,$2.5M to $5M
+Trevor Ariza,2022,Small Forward,24,19.3,4.0,3.4,1.1,3054712,0,2004,2,43,$2.5M to $5M
+Dwight Howard,2022,Center,60,16.2,6.2,5.9,0.6,3054712,1,2004,1,1,$2.5M to $5M
+Udonis Haslem,2022,Center,13,6.4,2.5,1.9,0.3,3054712,0,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Markieff Morris,2022,Power Forward,17,17.5,7.6,2.6,1.4,3054712,1,2011,1,13,$2.5M to $5M
+Paul Millsap,2022,Power Forward,33,11.4,3.5,3.5,0.9,3054712,1,2006,2,47,$2.5M to $5M
+Grant Williams,2022,Power Forward,77,24.4,7.8,3.6,1.0,3027086,0,2019,1,22,$2.5M to $5M
+Tyrese Maxey,2022,Point Guard,75,35.3,17.5,3.2,4.3,3009880,1,2020,1,21,$2.5M to $5M
+Keon Johnson,2022,Shooting Guard,37,18.8,7.2,2.2,2.1,2952432,4,2021,1,21,$2.5M to $5M
+Darius Bazley,2022,Power Forward,69,27.9,10.8,6.3,1.4,2905947,1,2019,1,23,$2.5M to $5M
+Trey Lyles,2022,Power Forward,75,20.5,10.5,5.1,1.2,2890868,0,2015,1,12,$2.5M to $5M
+Zeke Nnaji,2022,Power Forward,41,17.0,6.6,3.6,0.4,2889434,4,2020,1,22,$2.5M to $5M
+Isaiah Jackson,2022,Power Forward,36,15.0,8.3,4.1,0.3,2834485,5,2021,1,22,$2.5M to $5M
+Ty Jerome,2022,Shooting Guard,48,16.7,7.1,1.6,2.3,2790081,1,2019,1,24,$2.5M to $5M
+Andre Drummond,2022,Center,73,19.7,7.9,9.3,1.8,2777011,0,2012,1,9,$2.5M to $5M
+Austin Rivers,2022,Shooting Guard,67,22.1,6.0,1.7,1.3,2777011,2,2012,1,10,$2.5M to $5M
+Kent Bazemore,2022,Small Forward,39,14.0,3.4,1.8,0.9,2777011,0,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Hassan Whiteside,2022,Center,65,17.9,8.2,7.6,0.4,2777011,3,2010,2,33,$2.5M to $5M
+Victor Oladipo,2022,Shooting Guard,8,21.6,12.4,2.9,3.5,2763255,4,2013,1,2,$2.5M to $5M
+Tony Snell,2022,Shooting Guard,53,15.5,3.5,1.9,0.5,2763255,1,2013,1,20,$2.5M to $5M
+Solomon Hill,2022,Power Forward,13,10.7,0.6,1.8,0.9,2763255,1,2013,1,23,$2.5M to $5M
+Ben McLemore,2022,Shooting Guard,64,20.1,10.2,1.6,0.9,2763255,0,2013,1,7,$2.5M to $5M
+Cody Zeller,2022,Center,27,13.1,5.2,4.6,0.8,2763255,2,2013,1,4,$2.5M to $5M
+Usman Garuba,2022,Power Forward,24,10.0,2.0,3.5,0.7,2721255,3,2021,1,23,$2.5M to $5M
+Leandro Bolmaro,2022,Small Forward,35,6.9,1.4,1.2,0.6,2721255,1,2020,1,23,$2.5M to $5M
+Willy Hernangomez,2022,Center,50,16.8,9.1,6.8,1.3,2691075,0,2015,2,35,$2.5M to $5M
+Nassir Little,2022,Small Forward,42,25.9,9.8,5.6,1.3,2678378,3,2019,1,25,$2.5M to $5M
+Josh Christopher,2022,Shooting Guard,74,18.0,7.9,2.5,2.0,2612466,0,2021,1,24,$2.5M to $5M
+Drew Eubanks,2022,Center,71,17.5,7.7,5.4,1.2,2590009,1,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Rodney Hood,2022,Shooting Guard-Small Forward,52,13.6,3.1,1.5,0.7,2589691,2,2014,1,23,$2.5M to $5M
+Elfrid Payton,2022,Point Guard,50,11.0,3.0,1.8,2.0,2589691,0,2014,1,10,$2.5M to $5M
+Dylan Windler,2022,Small Forward,50,9.2,2.2,1.8,0.7,2589293,3,2019,1,26,$2.5M to $5M
+Immanuel Quickley,2022,Point Guard,78,23.1,11.3,3.2,3.5,2556268,0,2020,1,25,$2.5M to $5M
+John Konchar,2022,Shooting Guard,72,17.9,4.8,4.6,1.5,2543964,1,Undrafted,Undrafted,Undrafted,$2.5M to $5M
+Quentin Grimes,2022,Shooting Guard,46,17.1,6.0,2.0,1.0,2507701,4,2021,1,25,$2.5M to $5M
+Jordan Poole,2022,Shooting Guard,76,30.0,18.5,3.4,4.0,2499375,0,2019,1,28,Under $2.5M
+Bol Bol,2022,Power Forward,14,5.8,2.4,1.4,0.4,2499042,2,2019,2,44,Under $2.5M
+Keldon Johnson,2022,Small Forward,75,31.9,17.0,6.1,2.1,2481198,3,2019,1,29,Under $2.5M
+Payton Pritchard,2022,Shooting Guard,71,14.1,6.2,1.9,2.0,2471623,0,2020,1,26,Under $2.5M
+Bones Hyland,2022,Point Guard,69,19.0,10.1,2.7,2.8,2424722,1,2021,1,26,Under $2.5M
+Nemanja Bjelica,2022,Center,71,16.1,6.1,4.1,2.2,2416128,2,2010,2,35,Under $2.5M
+Frank Kaminsky,2022,Center,9,20.1,10.6,4.6,1.4,2416128,1,2015,1,9,Under $2.5M
+Raul Neto,2022,Point Guard,70,19.6,7.5,1.9,3.1,2416128,0,2013,2,47,Under $2.5M
+Jaden McDaniels,2022,Power Forward,70,25.8,9.2,4.2,1.1,2385868,2,2020,1,28,Under $2.5M
+Malachi Flynn,2022,Point Guard,44,12.2,4.3,1.4,1.6,2368246,1,2020,1,29,Under $2.5M
+DeMarcus Cousins,2022,Center,48,15.0,9.0,5.6,1.5,2357725,1,2010,1,5,Under $2.5M
+Cam Thomas,2022,Shooting Guard,67,17.6,8.5,2.4,1.2,2354647,0,2021,1,27,Under $2.5M
+Desmond Bane,2022,Small Forward,76,29.8,18.2,4.4,2.7,2351039,1,2020,1,30,Under $2.5M
+Jaden Springer,2022,Shooting Guard,2,3.0,1.0,1.0,0.0,2340077,4,2021,1,28,Under $2.5M
+Day'Ron Sharpe,2022,Power Forward,32,12.2,6.2,5.0,0.5,2323287,3,2021,1,29,Under $2.5M
+Garrison Mathews,2022,Shooting Guard,65,26.3,10.0,2.9,1.0,2312695,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jordan McLaughlin,2022,Point Guard,62,14.5,3.8,1.5,2.9,2312695,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jeremiah Robinson-Earl,2022,Center,49,22.2,7.5,5.6,1.0,2312695,1,2021,2,32,Under $2.5M
+Theo Maledon,2022,Point Guard,51,17.8,7.1,2.6,2.2,2312695,0,2020,2,34,Under $2.5M
+Kenrich Williams,2022,Small Forward,49,21.9,7.4,4.5,2.2,2312695,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Abdel Nader,2022,Small Forward,14,10.4,2.4,1.9,0.5,2312695,1,2016,2,58,Under $2.5M
+Damian Jones,2022,Center,56,18.2,8.1,4.4,1.2,2286111,0,2016,1,30,Under $2.5M
+Wesley Matthews,2022,Shooting Guard,49,20.4,5.1,1.9,0.7,2264700,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Rodney McGruder,2022,Shooting Guard,51,14.8,5.4,2.2,0.9,2242562,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Moses Brown,2022,Center,40,8.6,4.3,3.4,0.0,2236270,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jose Alvarado,2022,Point Guard,54,15.4,6.1,1.9,2.8,2226438,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Damion Lee,2022,Shooting Guard,63,19.9,7.4,3.2,1.0,2209618,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+PJ Dozier,2022,Shooting Guard,18,18.9,5.4,3.5,1.6,2209618,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Killian Tillie,2022,Center,36,12.8,3.3,1.7,0.6,2198939,3,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tyrell Terry,2022,Point Guard,2,1.5,1.0,0.0,0.0,2161719,2,2020,2,31,Under $2.5M
+Carsen Edwards,2022,Shooting Guard,4,19.8,5.8,1.5,3.5,2150071,0,2019,2,33,Under $2.5M
+Shake Milton,2022,Point Guard,55,21.4,8.2,2.6,2.5,2135470,2,2018,2,54,Under $2.5M
+Jalen Brunson,2022,Point Guard,79,31.9,16.3,3.9,4.8,2083804,3,2018,2,33,Under $2.5M
+Mitchell Robinson,2022,Center,72,25.7,8.5,8.6,0.5,2083804,4,2018,2,36,Under $2.5M
+Tony Bradley,2022,Center,55,10.0,3.0,3.4,0.5,2069001,0,2017,1,28,Under $2.5M
+Frank Ntilikina,2022,Point Guard,58,11.8,4.1,1.4,1.2,2069001,5,2017,1,8,Under $2.5M
+Semi Ojeleye,2022,Power Forward,30,13.5,3.3,2.5,0.3,2069001,2,2017,2,37,Under $2.5M
+Malik Monk,2022,Shooting Guard,76,28.1,13.8,3.4,2.9,2069001,0,2017,1,11,Under $2.5M
+Didi Louzada,2022,Shooting Guard-Small Forward,9,14.3,3.9,1.9,0.6,2066251,1,2019,2,35,Under $2.5M
+Jalen McDaniels,2022,Small Forward,55,16.3,6.2,3.1,1.1,2061329,1,2019,2,52,Under $2.5M
+Cody Martin,2022,Small Forward,71,26.3,7.7,4.0,2.5,2061329,1,2019,2,36,Under $2.5M
+Dean Wade,2022,Power Forward,51,19.2,5.3,2.9,1.0,2061329,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Vlatko Cancar,2022,Power Forward,15,11.7,4.1,2.1,1.1,2061329,2,2017,2,49,Under $2.5M
+Bruno Fernando,2022,Center,30,5.1,2.9,1.8,0.2,2061329,2,2019,2,34,Under $2.5M
+Terance Mann,2022,Small Forward,81,28.6,10.8,5.2,2.6,2061329,1,2019,2,48,Under $2.5M
+Jaylen Nowell,2022,Shooting Guard,62,15.7,8.5,2.0,2.1,2061329,2,2019,2,43,Under $2.5M
+Naz Reid,2022,Center,77,15.8,8.3,3.9,0.9,2061329,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+KZ Okpala,2022,Power Forward,21,11.6,3.7,2.0,0.7,2061329,1,2019,2,32,Under $2.5M
+Isaiah Roby,2022,Power Forward,45,21.1,10.1,4.8,1.6,2061329,2,2019,2,45,Under $2.5M
+Luguentz Dort,2022,Small Forward,51,32.6,17.2,4.2,1.7,2061329,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Eric Paschall,2022,Power Forward,58,12.7,5.8,1.8,0.6,2061329,0,2019,2,41,Under $2.5M
+Daniel Gafford,2022,Center,72,20.1,9.4,5.7,0.9,2061329,2,2019,2,38,Under $2.5M
+Chimezie Metu,2022,Center,60,21.3,8.9,5.6,1.0,2038404,1,2018,2,49,Under $2.5M
+Yuta Watanabe,2022,Small Forward,38,11.7,4.3,2.4,0.6,2038404,3,Undrafted,Undrafted,Undrafted,Under $2.5M
+Armoni Brooks,2022,Point Guard-Shooting Guard,54,15.6,5.3,1.9,1.1,2010962,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Isaiah Hartenstein,2022,Center,68,17.9,8.3,4.9,2.4,1999575,1,2017,2,43,Under $2.5M
+Thanasis Antetokounmpo,2022,Small Forward,48,9.9,3.6,2.1,0.5,1999575,0,2014,2,51,Under $2.5M
+Moritz Wagner,2022,Center,63,15.2,9.0,3.7,1.4,1999575,2,2018,1,25,Under $2.5M
+Keita Bates-Diop,2022,Small Forward,59,16.2,5.7,3.9,0.7,1999575,6,2018,2,48,Under $2.5M
+Isaac Bonga,2022,Small Forward,15,4.6,0.8,0.5,0.3,1999575,2,2018,2,39,Under $2.5M
+Juan Toscano-Anderson,2022,Small Forward,73,13.6,4.1,2.4,1.7,1967632,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Oshae Brissett,2022,Small Forward,67,23.3,9.1,5.3,1.1,1967632,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Gabriel Deck,2022,Power Forward,7,8.0,2.6,0.9,0.7,1954813,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Matt Thomas,2022,Shooting Guard,40,11.5,4.0,1.3,0.5,1930149,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Javonte Green,2022,Small Forward,65,23.4,7.2,4.2,0.9,1930149,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Gary Payton,2022,Point Guard,71,17.6,7.1,3.5,0.9,1930149,3,Undrafted,Undrafted,Undrafted,Under $2.5M
+Max Strus,2022,Small Forward,68,23.3,10.6,3.0,1.4,1930149,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Gabe Vincent,2022,Point Guard,68,23.4,8.7,1.9,3.1,1930149,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Lance Stephenson,2022,Shooting Guard-Small Forward,46,17.7,8.3,2.8,3.6,1867297,1,2010,2,40,Under $2.5M
+Deividas Sirvydis,2022,Shooting Guard,3,9.0,1.0,2.0,0.3,1854271,0,2019,2,37,Under $2.5M
+Daniel Oturu,2022,Center,3,9.0,3.0,1.7,0.0,1854270,0,2020,2,33,Under $2.5M
+Kevin Pangos,2022,Point Guard,24,6.9,1.6,0.5,1.3,1814515,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Bismack Biyombo,2022,Center,36,14.1,5.8,4.6,0.6,1755581,0,2011,1,7,Under $2.5M
+Nick Richards,2022,Center,50,7.3,3.0,1.7,0.3,1755313,1,2020,2,42,Under $2.5M
+Lamar Stevens,2022,Power Forward,63,16.1,6.1,2.6,0.7,1755313,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jae'Sean Tate,2022,Small Forward,78,26.4,11.8,5.4,2.8,1755313,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Sam Merrill,2022,Shooting Guard,6,9.7,4.2,1.2,0.7,1755313,1,2020,2,60,Under $2.5M
+Jordan Nwora,2022,Small Forward,62,19.1,7.9,3.6,1.0,1755313,1,2020,2,45,Under $2.5M
+Naji Marshall,2022,Small Forward,55,13.4,5.7,2.6,1.1,1755313,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Paul Reed,2022,Center,38,7.9,3.1,2.4,0.4,1755313,0,2020,2,58,Under $2.5M
+Isaiah Joe,2022,Shooting Guard,55,11.1,3.6,1.0,0.6,1755313,1,2020,2,49,Under $2.5M
+Elijah Hughes,2022,Shooting Guard-Small Forward,36,12.1,3.5,1.6,0.6,1755313,4,2020,2,39,Under $2.5M
+CJ Elleby,2022,Small Forward,58,20.2,5.8,3.9,1.5,1755313,2,2020,2,46,Under $2.5M
+Jahmi'us Ramsey,2022,Shooting Guard,19,7.1,3.2,0.7,0.4,1755313,0,2020,2,43,Under $2.5M
+Tre Jones,2022,Point Guard,69,16.6,6.0,2.2,3.4,1755313,2,2020,2,41,Under $2.5M
+Anthony Gill,2022,Power Forward,44,10.5,4.1,1.9,0.6,1755313,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Isaiah Todd,2022,Power Forward,12,6.2,1.7,1.0,0.3,1734521,2,2021,2,31,Under $2.5M
+Saben Lee,2022,Point Guard,37,16.3,5.6,2.4,2.9,1721876,2,2020,2,38,Under $2.5M
+Omer Yurtseven,2022,Center,56,12.6,5.3,5.3,0.9,1721876,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Stanley Johnson,2022,Power Forward,48,22.8,6.7,3.2,1.7,1583036,0,2015,1,8,Under $2.5M
+Aaron Wiggins,2022,Shooting Guard,50,24.2,8.3,3.6,1.4,1509913,1,2021,2,55,Under $2.5M
+Marquese Chriss,2022,Power Forward,34,10.2,4.5,3.0,0.5,1495041,2,2016,1,8,Under $2.5M
+JT Thor,2022,Power Forward,33,7.9,2.0,1.3,0.6,1445434,3,2021,2,37,Under $2.5M
+Jabari Parker,2022,Power Forward,12,9.3,4.4,2.3,0.5,1350944,1,2014,1,2,Under $2.5M
+Alfonzo McKinnie,2022,Small Forward,17,12.1,3.5,1.9,0.3,1260426,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Isaiah Livers,2022,Small Forward,19,20.2,6.4,3.0,1.1,1222559,2,2021,2,42,Under $2.5M
+Denzel Valentine,2022,Shooting Guard,24,9.3,2.9,1.8,0.5,1162860,1,2016,1,14,Under $2.5M
+Alize Johnson,2022,Power Forward,23,7.3,1.8,2.7,0.4,1160670,0,2018,2,50,Under $2.5M
+Kelan Martin,2022,Small Forward,30,15.0,5.7,1.8,0.7,1149131,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Miye Oni,2022,Shooting Guard,16,2.8,0.3,0.4,0.3,1094206,2,2019,2,58,Under $2.5M
+Ayo Dosunmu,2022,Shooting Guard,77,27.4,8.8,2.8,3.3,1069919,1,2021,2,38,Under $2.5M
+Marko Simonovic,2022,Center,9,3.9,1.9,1.1,0.0,1069919,4,2020,2,44,Under $2.5M
+Luka Garza,2022,Center,32,12.2,5.8,3.1,0.6,1069919,1,2021,2,52,Under $2.5M
+Austin Reaves,2022,Shooting Guard,61,23.2,7.3,3.2,1.8,1069919,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Miles McBride,2022,Point Guard,40,9.3,2.2,1.1,1.0,1069919,0,2021,2,36,Under $2.5M
+Vit Krejci,2022,Shooting Guard,30,23.0,6.2,3.4,1.9,1069919,1,2020,2,37,Under $2.5M
+Charles Bassey,2022,Power Forward,23,7.3,3.0,2.7,0.3,1069919,0,2021,2,53,Under $2.5M
+Jock Landale,2022,Center,54,10.9,4.9,2.6,0.8,1069919,3,Undrafted,Undrafted,Undrafted,Under $2.5M
+Dalano Banton,2022,Small Forward,64,10.9,3.2,1.9,1.5,1069919,1,2021,2,46,Under $2.5M
+Jared Butler,2022,Shooting Guard,42,8.6,3.8,1.1,1.5,1069919,2,2021,2,40,Under $2.5M
+Daishen Nix,2022,Shooting Guard,24,10.9,3.2,1.4,1.7,1067398,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Isaiah Thomas,2022,Point Guard,22,15.1,8.4,1.3,1.5,1053345,0,2011,2,60,Under $2.5M
+Terry Taylor,2022,Shooting Guard,33,21.6,9.6,5.2,1.2,1035075,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Mamadi Diakite,2022,Power Forward,13,14.5,4.3,4.5,0.2,1004956,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Caleb Martin,2022,Small Forward,60,22.9,9.2,3.8,1.1,975970,6,Undrafted,Undrafted,Undrafted,Under $2.5M
+Brad Wanamaker,2022,Point Guard,23,13.9,3.6,1.7,2.4,942327,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Luke Kornet,2022,Center,15,6.9,2.0,1.9,0.6,939374,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Wayne Selden,2022,Shooting Guard,3,6.3,1.7,0.3,0.3,939373,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Gary Clark,2022,Power Forward,38,9.9,2.7,2.4,0.5,938044,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Trendon Watford,2022,Small Forward,48,18.1,7.6,4.1,1.7,889034,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Devontae Cacok,2022,Power Forward,15,8.1,3.1,2.8,0.4,839656,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Admiral Schofield,2022,Small Forward,38,12.3,3.8,2.3,0.7,836895,1,2019,2,42,Under $2.5M
+Malik Fitts,2022,Power Forward,15,4.2,1.4,1.1,0.3,729508,7,Undrafted,Undrafted,Undrafted,Under $2.5M
+Sam Hauser,2022,Small Forward,26,6.1,2.5,1.1,0.4,716354,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Greg Monroe,2022,Center,14,13.9,5.4,4.6,1.6,708612,0,2010,1,7,Under $2.5M
+Amir Coffey,2022,Shooting Guard,69,22.7,9.0,2.9,1.8,663253,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Joe Wieskamp,2022,Shooting Guard,29,7.1,2.1,0.5,0.3,651790,0,2021,2,41,Under $2.5M
+Keifer Sykes,2022,Point Guard,32,17.7,5.6,1.4,1.9,645640,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Haywood Highsmith,2022,Small Forward,19,8.6,2.3,1.4,0.3,633332,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Nik Stauskas,2022,Shooting Guard,8,4.9,2.3,0.4,0.3,618637,1,2014,1,8,Under $2.5M
+Davon Reed,2022,Shooting Guard,48,13.9,4.4,2.3,1.1,615637,0,2017,2,32,Under $2.5M
+Wenyen Gabriel,2022,Power Forward,26,13.8,5.4,3.7,0.5,603628,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Skylar Mays,2022,Shooting Guard,28,7.9,2.9,0.9,0.6,590786,1,2020,2,50,Under $2.5M
+Georgios Kalaitzakis,2022,Small Forward,13,16.5,6.6,1.6,0.9,578001,0,2021,2,60,Under $2.5M
+Chris Silva,2022,Power Forward,10,9.1,2.6,3.6,0.7,554641,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Kessler Edwards,2022,Small Forward,48,20.6,5.9,3.6,0.6,535632,2,2021,2,44,Under $2.5M
+Trent Forrest,2022,Point Guard,60,12.8,3.3,1.7,1.8,535632,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Sharife Cooper,2022,Point Guard,13,3.0,0.5,0.4,0.4,534959,0,2021,2,48,Under $2.5M
+Brodric Thomas,2022,Shooting Guard,12,5.0,1.8,0.8,0.9,534959,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Scottie Lewis,2022,Shooting Guard,2,3.5,0.5,0.0,0.5,534959,2,2021,2,56,Under $2.5M
+Arnoldas Kulboka,2022,Small Forward,2,2.5,0.0,0.0,0.0,534959,0,2018,2,55,Under $2.5M
+Tyler Cook,2022,Power Forward,20,10.0,3.4,2.7,0.2,534959,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Markus Howard,2022,Shooting Guard,31,5.7,4.1,0.4,0.2,534959,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jamorko Pickett,2022,Power Forward,13,13.5,3.8,2.5,0.5,534959,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Chris Chiozza,2022,Point Guard,34,10.9,2.0,1.1,1.9,534959,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jay Scrubb,2022,Shooting Guard,18,6.7,2.7,0.9,0.4,534959,5,2020,2,55,Under $2.5M
+Yves Pons,2022,Small Forward,12,5.9,1.1,1.0,0.1,534959,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Sandro Mamukelashvili,2022,Power Forward,41,9.9,3.8,2.0,0.5,534959,2,2021,2,54,Under $2.5M
+Nathan Knight,2022,Power Forward,37,7.2,3.7,2.3,0.6,534959,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jericho Sims,2022,Power Forward,41,13.5,2.2,4.1,0.5,534959,3,2021,2,58,Under $2.5M
+Ignas Brazdeikis,2022,Small Forward,42,12.8,5.0,1.7,0.9,534959,0,2019,2,47,Under $2.5M
+Keljin Blevins,2022,Small Forward,31,11.3,3.1,1.5,0.6,534959,3,Undrafted,Undrafted,Undrafted,Under $2.5M
+Neemias Queta,2022,Center,14,8.6,3.2,2.2,0.4,534959,2,2021,2,39,Under $2.5M
+David Johnson,2022,Shooting Guard,2,1.0,0.0,0.0,0.0,534959,4,2021,2,47,Under $2.5M
+Justin Champagnie,2022,Small Forward,36,7.8,2.3,2.0,0.3,534959,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Cassius Winston,2022,Point Guard,7,5.6,2.0,0.1,1.0,534959,7,2020,2,53,Under $2.5M
+Justin Anderson,2022,Small Forward,16,19.8,6.4,2.9,2.1,515532,0,2015,1,21,Under $2.5M
+Theo Pinson,2022,Small Forward,19,7.8,2.5,1.1,0.9,509613,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Langston Galloway,2022,Shooting Guard,7,15.3,2.0,2.6,1.7,446496,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tim Frazier,2022,Point Guard,12,17.3,3.3,1.6,2.8,446496,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Kyle Guy,2022,Shooting Guard,19,9.8,3.9,0.9,0.9,442972,0,2019,2,55,Under $2.5M
+Sam Dekker,2022,Power Forward,1,1.0,0.0,0.0,0.0,404721,0,2015,1,18,Under $2.5M
+Quinndary Weatherspoon,2022,Shooting Guard,11,6.6,2.7,1.3,0.5,400664,2,2019,2,49,Under $2.5M
+Brandon Goodwin,2022,Point Guard,36,13.9,4.8,1.9,2.5,397769,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Malcolm Hill,2022,Shooting Guard-Small Forward,19,11.2,3.8,1.8,0.4,375086,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Louis King,2022,Small Forward,10,10.4,4.5,1.2,0.9,365863,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Justin Jackson,2022,Small Forward,7,5.3,2.1,1.0,0.3,356724,1,2017,1,15,Under $2.5M
+Shaquille Harrison,2022,Shooting Guard,2,11.5,2.0,2.0,1.5,356724,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jeff Dowtin,2022,Point Guard,9,12.0,2.1,2.0,1.1,353564,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Trevelin Queen,2022,Shooting Guard,10,7.4,4.3,1.6,0.4,350491,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Paul Watson,2022,Small Forward,9,17.3,3.4,3.0,0.9,350491,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Myles Powell,2022,Point Guard,11,4.7,1.2,0.5,0.3,347416,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Mason Jones,2022,Shooting Guard,4,12.8,6.8,2.5,1.0,341267,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Eugene Omoruyi,2022,Small Forward,4,4.5,1.8,1.8,0.5,325894,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Brandon Knight,2022,Point Guard,5,13.0,6.4,1.6,1.6,317616,0,2011,1,8,Under $2.5M
+Justin Robinson,2022,Point Guard,25,12.2,3.1,0.8,1.3,307533,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Mychal Mulder,2022,Point Guard,17,14.1,4.1,1.4,0.3,298223,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tyler Johnson,2022,Point Guard,6,15.2,2.8,2.0,1.2,297664,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Cassius Stanley,2022,Shooting Guard,9,17.2,5.8,2.1,0.4,296873,0,2020,2,54,Under $2.5M
+Zylan Cheatham,2022,Small Forward,1,5.0,0.0,0.0,0.0,296871,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Devon Dotson,2022,Point Guard,11,7.7,2.6,0.8,1.4,276703,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Marcus Garrett,2022,Shooting Guard,12,10.7,1.1,1.9,0.6,273628,5,Undrafted,Undrafted,Undrafted,Under $2.5M
+Lindell Wigginton,2022,Point Guard,19,10.5,4.2,1.3,1.2,270554,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jay Huff,2022,Center,4,5.0,0.0,1.0,0.3,261331,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Olivier Sarr,2022,Center,22,19.1,7.0,4.2,0.9,258257,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Aaron Henry,2022,Small Forward,6,2.8,0.3,0.2,0.0,258256,4,Undrafted,Undrafted,Undrafted,Under $2.5M
+Freddie Gillespie,2022,Power Forward,9,13.2,2.3,4.0,0.6,255732,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+JaQuori McLaughlin,2022,Point Guard,4,2.8,0.0,0.0,0.5,255181,6,Undrafted,Undrafted,Undrafted,Under $2.5M
+Rayjon Tucker,2022,Shooting Guard,5,14.2,4.2,1.6,2.0,255134,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tacko Fall,2022,Center,11,5.4,1.1,2.1,0.2,252108,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Petr Cornelie,2022,Power Forward,13,2.9,1.1,1.1,0.2,252108,0,2016,2,53,Under $2.5M
+Juwan Morgan,2022,Power Forward,2,15.5,2.5,2.0,0.5,244042,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Damyean Dotson,2022,Shooting Guard,2,10.5,2.0,1.0,0.5,237816,1,2017,2,44,Under $2.5M
+Xavier Moon,2022,Shooting Guard,10,13.7,5.8,1.4,2.4,233661,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tyrone Wallace,2022,Shooting Guard,6,12.5,2.8,1.3,0.2,229835,0,2016,2,60,Under $2.5M
+Norvel Pelle,2022,Center,3,6.3,2.0,2.0,0.0,221856,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jaylen Hoard,2022,Small Forward,7,34.3,14.7,12.0,2.4,221856,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tremont Waters,2022,Point Guard,3,16.7,3.3,1.3,2.3,221856,0,2019,2,51,Under $2.5M
+Reggie Perry,2022,Power Forward,10,18.7,9.2,4.7,1.2,217706,1,2020,2,57,Under $2.5M
+Devin Cannady,2022,Point Guard,5,29.0,10.0,1.2,2.0,214592,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Brandon Williams,2022,Point Guard,24,26.7,12.9,3.1,3.9,209065,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Moses Wright,2022,Power Forward,4,3.5,1.3,0.8,0.5,199840,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+DeJon Jarreau,2022,Shooting Guard,1,1.0,0.0,0.0,0.0,199840,3,Undrafted,Undrafted,Undrafted,Under $2.5M
+Dakota Mathias,2022,Shooting Guard,6,2.7,1.0,0.3,0.2,197915,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Matt Mooney,2022,Shooting Guard,1,2.0,0.0,0.0,0.0,197915,2,Undrafted,Undrafted,Undrafted,Under $2.5M
+Lindy Waters,2022,Shooting Guard,25,18.6,8.0,2.9,1.0,184468,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Joe Johnson,2022,Shooting Guard,1,2.0,2.0,0.0,0.0,175557,0,2001,1,10,Under $2.5M
+Darren Collison,2022,Point Guard,3,12.3,1.3,1.3,0.7,175557,0,2009,1,21,Under $2.5M
+Xavier Sneed,2022,Small Forward,9,4.3,0.6,0.7,0.1,169096,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Anthony Lamb,2022,Small Forward,2,4.0,0.0,0.5,1.0,157372,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Braxton Key,2022,Small Forward,11,17.9,7.2,4.5,1.0,147574,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Feron Hunt,2022,Small Forward,2,4.0,0.0,0.5,0.5,135276,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Mac McClung,2022,Point Guard-Shooting Guard,2,12.5,4.0,1.5,0.5,129128,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Matt Ryan,2022,Small Forward,1,5.0,3.0,0.0,0.0,129128,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Emmanuel Mudiay,2022,Point Guard,2,5.5,1.5,0.0,2.0,128883,0,2015,1,7,Under $2.5M
+Carlik Jones,2022,Point Guard,5,4.6,0.8,0.6,1.0,122978,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Hassani Gravett,2022,Point Guard,8,21.4,6.3,2.6,2.5,122979,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Paris Bass,2022,Small Forward,2,3.5,3.0,2.0,0.0,122979,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jordan Bell,2022,Center,1,2.0,0.0,1.0,0.0,118908,0,2017,2,38,Under $2.5M
+Cheick Diallo,2022,Center,3,10.3,3.7,4.0,0.0,118908,0,2016,2,33,Under $2.5M
+Nate Hinton,2022,Shooting Guard,2,1.0,0.0,0.0,0.0,111255,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Derrick Walton,2022,Point Guard,3,36.0,6.3,3.3,7.0,110928,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+DaQuan Jeffries,2022,Shooting Guard,3,3.0,0.7,0.7,0.3,110928,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Scotty Hopson,2022,Shooting Guard,1,18.0,4.0,1.0,1.0,110928,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jaylen Morris,2022,Shooting Guard,3,5.3,0.7,0.7,0.7,110928,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Cameron Oliver,2022,Small Forward,2,21.5,11.5,3.0,1.5,98957,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Malik Newman,2022,Point Guard,1,8.0,8.0,1.0,1.0,98957,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+George King,2022,Small Forward,4,4.8,0.3,1.3,0.0,98957,0,2018,2,59,Under $2.5M
+Jemerrio Jones,2022,Small Forward,2,7.5,2.0,1.5,0.0,98957,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Emanuel Terry,2022,Power Forward,3,6.0,0.0,5.0,0.7,98957,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jared Harper,2022,Point Guard,5,8.6,7.4,0.4,2.8,98383,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Gabriel Lundberg,2022,Shooting Guard,4,11.0,3.3,1.8,2.8,92234,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tre Scott,2022,Small Forward,2,5.5,3.0,1.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Trayvon Palmer,2022,Shooting Guard,1,17.0,0.0,2.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Micah Potter,2022,Center,3,10.3,4.0,3.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jaysean Paige,2022,Point Guard,1,7.0,0.0,1.0,1.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Ahmad Caver,2022,Point Guard,1,1.0,2.0,0.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Shaq Buchanan,2022,Point Guard,2,5.0,1.0,1.0,1.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jon Teske,2022,Center,3,2.7,0.0,0.7,0.3,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Javin DeLaurier,2022,Center,1,3.0,0.0,1.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Tyler Hall,2022,Shooting Guard,1,2.0,0.0,0.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Rob Edwards,2022,Shooting Guard,2,5.5,1.5,1.5,0.0,61489,1,Undrafted,Undrafted,Undrafted,Under $2.5M
+Aleem Ford,2022,Small Forward,5,14.8,2.8,3.0,0.4,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Cameron McGriff,2022,Small Forward,3,15.3,4.7,5.0,1.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jarron Cumberland,2022,Shooting Guard,3,4.0,0.7,1.0,0.3,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Ade Murkey,2022,Shooting Guard,1,1.0,0.0,0.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jordan Schakel,2022,Shooting Guard,4,7.5,1.3,2.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jordan Goodwin,2022,Shooting Guard,2,3.0,0.0,0.5,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Craig Sword,2022,Shooting Guard,3,6.3,2.0,0.0,0.3,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Jaime Echenique,2022,Center,1,3.0,0.0,0.0,0.0,61489,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Zavier Simpson,2022,Point Guard,4,43.5,11.0,5.3,7.5,43042,0,Undrafted,Undrafted,Undrafted,Under $2.5M
+Melvin Frazier,2022,Shooting Guard,3,40.0,10.7,4.3,0.3,15372,0,2018,2,35,Under $2.5M
